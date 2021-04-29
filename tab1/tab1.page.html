@@ -1,0 +1,33 @@
+ <ion-button color="primary">MathTime </ion-button>
+ <ion-content (click)="setQuestion()" tappable padding> 
+  <div class="question-container">
+    <h2>{{activeQuestion.question}}</h2>
+  </div> 
+
+<!-- 
+<button (click)="setQuestion()" ion-button color="secondary" icon-start> 
+  <div class="question-container">
+    <h2>{{activeQuestion.question}}</h2> ></button> -->
+
+
+  <ion-item>
+    <ion-label>Ask Mom or Dad if you got it RIGHT!!</ion-label>
+    <ion-checkbox [(ngModel)]="mushrooms"></ion-checkbox>
+  </ion-item>
+
+
+  <ion-item>
+    <ion-input type="number" placeholder="Press the Tab button on keyboard, then Enter your Answer here!"></ion-input>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>Date</ion-label>
+    <ion-datetime displayFormat="MM/DD/YYYY" [(ngModel)]="myDate"></ion-datetime>
+  </ion-item>
+
+
+
+  <!-- <img src="unicorn_head.jpg" alt="Simply Easy Learning" width="200"
+  height="80"> -->
+
+
