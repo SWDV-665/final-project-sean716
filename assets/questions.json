@@ -1,0 +1,52 @@
+ {
+     "questions": [ 
+        {
+            "question": "How many ounces are in a pound?",
+            "background": "blue"
+        },
+    
+        {
+            "question": "Which is lighter, 4 pounds of feathers or 4 pounds of nickels?",
+            "background": "magenta"
+        },
+    
+        {
+            "question": "100 x 22 = ?",
+            "background": "grey"
+        },
+    
+        {
+            "question": "1000 x 1000 = ?",
+            "background": "green"
+        },
+
+
+        {
+            "question": "How many inches are in 9 feet?",
+            "background": "orange"
+        },
+    
+        {
+            "question": "A unicorn named Sammy has lost his magic bracelet.  He can only recover it answer this:  55 x 55 =  ?",
+            "background": "magenta"
+        },
+    
+        {
+            "question": "How many inches are in 13 feet?",
+            "background": "grey"
+        },
+    
+        {
+            "question": "Sammy the unicorn is once again in trouble.  Please help him find his magical locket: 149 x 28 = ?",
+            "background": "purple"
+        }
+
+    
+
+
+     ]
+
+
+ }
+ 
+  
